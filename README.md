@@ -23,13 +23,7 @@ This repository provides a Physics-Informed Neural Network (PINN) framework to p
 
 ## 🧪 Dependencies
 
-Install dependencies using:
-
-```bash
-pip install -r requirements.txt
-```
-
-Required packages include:
+Install dependencies,Required packages include:
 - `tensorflow`
 - `numpy`
 - `scikit-learn`
