@@ -10,7 +10,7 @@ This repository provides a Physics-Informed Neural Network (PINN) framework to p
 ├── losses.py              # Custom physics loss using gradients and empirical sigmoid behavior
 ├── tune.py                # Hyperparameter tuning using Optuna
 ├── plot_models.py         # Visualization of training loss and model predictions
-├── Example_case.ipynb     #Comparing the performance of PINNs with other machine learning approaches.
+├── Example_case.ipynb     # Comparing the performance of PINNs with other machine learning approaches.
 └── README.md              # Project overview and setup instructions
 ```
 
