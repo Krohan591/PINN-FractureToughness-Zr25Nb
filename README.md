@@ -5,12 +5,13 @@ This repository provides a Physics-Informed Neural Network (PINN) framework to p
 ## 📁 Project Structure
 
 ```
-├── main.py            # Entry point: trains, saves, loads, and evaluates the PINN
-├── models.py          # PINN architecture (custom Keras model with physics constraints)
-├── losses.py          # Custom physics loss using gradients and empirical sigmoid behavior
-├── tune.py            # Hyperparameter tuning using Optuna
-├── plot_models.py     # Visualization of training loss and model predictions
-└── README.md          # Project overview and setup instructions
+├── main.py                # Entry point: trains, saves, loads, and evaluates the PINN
+├── models.py              # PINN architecture (custom Keras model with physics constraints)
+├── losses.py              # Custom physics loss using gradients and empirical sigmoid behavior
+├── tune.py                # Hyperparameter tuning using Optuna
+├── plot_models.py         # Visualization of training loss and model predictions
+├── Example_case.ipynb     #Comparing the performance of PINNs with other machine learning approaches.
+└── README.md              # Project overview and setup instructions
 ```
 
 ## ⚙️ Features
